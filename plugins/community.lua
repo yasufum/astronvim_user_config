@@ -26,4 +26,7 @@ return {
   },
 
   { import = "astrocommunity.git.git-blame-nvim" },
+  { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.bash" },
 }
