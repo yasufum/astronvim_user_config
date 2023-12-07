@@ -24,4 +24,6 @@ return {
       },
     },
   },
+
+  { import = "astrocommunity.git.git-blame-nvim" },
 }
