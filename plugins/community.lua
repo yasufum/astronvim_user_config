@@ -29,4 +29,6 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.bash" },
+  { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.code-runner.overseer-nvim" },
 }
